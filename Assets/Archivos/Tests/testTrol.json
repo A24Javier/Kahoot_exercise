@@ -1,0 +1,125 @@
+{
+    "testName": "Test Trol",
+    "preguntas": [
+        {
+            "pregunta": "¿Qué color tiene el caballo blanco de Santiago?",
+            "posiblesRespuestas": [
+                { "respuesta": "Negro", "esCorrecto": false },
+                { "respuesta": "Blanco", "esCorrecto": true },
+                { "respuesta": "Gris", "esCorrecto": false },
+                { "respuesta": "Rojo", "esCorrecto": false }
+            ],
+            "maximoPuntos": 50,
+            "tiempo": 15,
+            "imagen": "Imagenes/trollFace"
+        },
+        {
+            "pregunta": "¿Qué pesa más: un kilo de plumas o un kilo de hierro?",
+            "posiblesRespuestas": [
+                { "respuesta": "El hierro", "esCorrecto": false },
+                { "respuesta": "Pesan lo mismo", "esCorrecto": true },
+                { "respuesta": "Las plumas", "esCorrecto": false },
+                { "respuesta": "Depende de la báscula", "esCorrecto": false }
+            ],
+            "maximoPuntos": 100,
+            "tiempo": 15,
+            "imagen": "Imagenes/trollFace"
+        },
+        {
+            "pregunta": "Si estás corriendo una carrera y adelantas al segundo, ¿en qué posición quedas?",
+            "posiblesRespuestas": [
+                { "respuesta": "Primero", "esCorrecto": false },
+                { "respuesta": "Segundo", "esCorrecto": true },
+                { "respuesta": "Tercero", "esCorrecto": false },
+                { "respuesta": "Último", "esCorrecto": false }
+            ],
+            "maximoPuntos": 120,
+            "tiempo": 20,
+            "imagen": "Imagenes/trollFace"
+        },
+        {
+            "pregunta": "¿Cuántos meses del año tienen 28 días?",
+            "posiblesRespuestas": [
+                { "respuesta": "Solo febrero", "esCorrecto": false },
+                { "respuesta": "Todos", "esCorrecto": true },
+                { "respuesta": "Depende del año", "esCorrecto": false },
+                { "respuesta": "Ninguno", "esCorrecto": false }
+            ],
+            "maximoPuntos": 100,
+            "tiempo": 15,
+            "imagen": "Imagenes/trollFace"
+        },
+        {
+            "pregunta": "¿Qué puedes agarrar pero nunca lanzar?",
+            "posiblesRespuestas": [
+                { "respuesta": "El aire", "esCorrecto": false },
+                { "respuesta": "Un resfriado", "esCorrecto": true },
+                { "respuesta": "Una pelota", "esCorrecto": false },
+                { "respuesta": "Una sombra", "esCorrecto": false }
+            ],
+            "maximoPuntos": 180,
+            "tiempo": 20,
+            "imagen": "Imagenes/trollFace"
+        },
+        {
+            "pregunta": "Si un avión se estrella justo en la frontera entre Francia y España, ¿dónde entierran a los sobrevivientes?",
+            "posiblesRespuestas": [
+                { "respuesta": "En Francia", "esCorrecto": false },
+                { "respuesta": "En España", "esCorrecto": false },
+                { "respuesta": "En ambos países", "esCorrecto": false },
+                { "respuesta": "En ningún lugar", "esCorrecto": true }
+            ],
+            "maximoPuntos": 100,
+            "tiempo": 25,
+            "imagen": "Imagenes/trollFace"
+        },
+        {
+            "pregunta": "Si una docena de huevos cuesta 1 euro, ¿cuánto cuesta un huevo?",
+            "posiblesRespuestas": [
+                { "respuesta": "1 euro", "esCorrecto": false },
+                { "respuesta": "0.12 euros", "esCorrecto": true },
+                { "respuesta": "12 euros", "esCorrecto": false },
+                { "respuesta": "Depende del supermercado", "esCorrecto": false }
+            ],
+            "maximoPuntos": 150,
+            "tiempo": 10,
+            "imagen": "Imagenes/trollFace"
+        },
+        {
+            "pregunta": "¿Cuántos animales de cada especie metió Moisés en el arca?",
+            "posiblesRespuestas": [
+                { "respuesta": "Dos", "esCorrecto": false },
+                { "respuesta": "Ninguno", "esCorrecto": true },
+                { "respuesta": "Depende del tamaño", "esCorrecto": false },
+                { "respuesta": "Uno de cada", "esCorrecto": false }
+            ],
+            "maximoPuntos": 150,
+            "tiempo": 20,
+            "imagen": "Imagenes/trollFace"
+        },
+        {
+            "pregunta": "Si un gallo pone un huevo en la frontera de Chile y Argentina, ¿de qué país es el huevo?",
+            "posiblesRespuestas": [
+                { "respuesta": "De Chile", "esCorrecto": false },
+                { "respuesta": "De Argentina", "esCorrecto": false },
+                { "respuesta": "De ambos", "esCorrecto": false },
+                { "respuesta": "Ninguno", "esCorrecto": true }
+            ],
+            "maximoPuntos": 120,
+            "tiempo": 20,
+            "imagen": "Imagenes/trollFace"
+        },
+        {
+            "pregunta": "¿Qué sube pero nunca baja?",
+            "posiblesRespuestas": [
+                { "respuesta": "El humo", "esCorrecto": false },
+                { "respuesta": "La edad", "esCorrecto": true },
+                { "respuesta": "Los impuestos", "esCorrecto": false },
+                { "respuesta": "El precio del pan", "esCorrecto": false }
+            ],
+            "maximoPuntos": 120,
+            "tiempo": 15,
+            "imagen": "Imagenes/trollFace"
+        }
+    ]
+}

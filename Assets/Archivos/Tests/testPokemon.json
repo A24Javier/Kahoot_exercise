@@ -1,0 +1,110 @@
+{
+    "testName": "Test Pokémon",
+    "preguntas":
+    [
+        {
+            "pregunta": "¿Cuál es este Pokémon?",
+            "posiblesRespuestas":
+            [
+                {
+                    "respuesta": "Charmander",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "Mimikyu",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "Pikachu",
+                    "esCorrecto": true
+                },
+                {
+                    "respuesta": "Bulbasaur",
+                    "esCorrecto": false
+                }
+            ],
+            "maximoPuntos": 50,
+            "tiempo": 20,
+            "imagen": "Imagenes/pikachu"
+
+        },
+        {
+            "pregunta": "¿Cuál es este Pokémon?",
+            "posiblesRespuestas":
+            [
+                {
+                    "respuesta": "Bulbasaur",
+                    "esCorrecto": true
+                },
+                {
+                    "respuesta": "Squirtle",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "Charmander",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "Mew",
+                    "esCorrecto": false
+                }
+            ],
+            "maximoPuntos": 50,
+            "tiempo": 15,
+            "imagen": "Imagenes/bulbasaur"
+
+        },
+        {
+            "pregunta": "¿Cuál es este Pokémon?",
+            "posiblesRespuestas":
+            [
+                {
+                    "respuesta": "Zygarde",
+                    "esCorrecto": true
+                },
+                {
+                    "respuesta": "Yveltal",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "Xerneas",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "Floette",
+                    "esCorrecto": false
+                }
+            ],
+            "maximoPuntos": 110,
+            "tiempo": 15,
+            "imagen": "Imagenes/zygarde"
+
+        },
+        {
+            "pregunta": "¿Cuál es este Pokémon?",
+            "posiblesRespuestas":
+            [
+                {
+                    "respuesta": "Ivi",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "Eevee",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "Vaporeon",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "Ditto",
+                    "esCorrecto": true
+                }
+            ],
+            "maximoPuntos": 250,
+            "tiempo": 15,
+            "imagen": "Imagenes/eeveeditto"
+            
+        }
+    ]
+}

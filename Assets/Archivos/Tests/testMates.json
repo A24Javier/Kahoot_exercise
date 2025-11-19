@@ -1,0 +1,110 @@
+{
+    "testName": "Test mates",
+    "preguntas":
+    [
+        {
+            "pregunta": "¿Cuál es el resultado de 1+1?",
+            "posiblesRespuestas":
+            [
+                {
+                    "respuesta": "4",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "2",
+                    "esCorrecto": true
+                },
+                {
+                    "respuesta": "1",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "3",
+                    "esCorrecto": false
+                }
+            ],
+            "maximoPuntos": 100,
+            "tiempo": 20,
+            "imagen": "Imagenes/matesSuma"
+
+        },
+        {
+            "pregunta": "¿Cuál es el resultado de 5x5?",
+            "posiblesRespuestas":
+            [
+                {
+                    "respuesta": "13",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "18",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "25",
+                    "esCorrecto": true
+                },
+                {
+                    "respuesta": "30",
+                    "esCorrecto": false
+                }
+            ],
+            "maximoPuntos": 100,
+            "tiempo": 20,
+            "imagen": "Imagenes/matesMultiplicar"
+
+        },
+        {
+            "pregunta": "¿Cuál es el resultado de 30/3?",
+            "posiblesRespuestas":
+            [
+                {
+                    "respuesta": "2+5+3",
+                    "esCorrecto": true
+                },
+                {
+                    "respuesta": "5x2",
+                    "esCorrecto": true
+                },
+                {
+                    "respuesta": "100/33",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "2x6-3",
+                    "esCorrecto": false
+                }
+            ],
+            "maximoPuntos": 150,
+            "tiempo": 15,
+            "imagen": "Imagenes/matesDivision"
+
+        },
+        {
+            "pregunta": "¿Cuál es el resultado de (37x29)+(84/4)-(15^2/5)?",
+            "posiblesRespuestas":
+            [
+                {
+                    "respuesta": "863",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "911",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "943",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "1049",
+                    "esCorrecto": true
+                }
+            ],
+            "maximoPuntos": 200,
+            "tiempo": 12,
+            "imagen": "Imagenes/matesChungo"
+            
+        }
+    ]
+}
