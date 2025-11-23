@@ -36,6 +36,7 @@ public class SceneController : MonoBehaviour
             case 0:
                 GameObject.Find("Button_seleccionKahoot").GetComponent<Button>().onClick.AddListener(delegate { ChangeScene("KahootSelection"); });
                 GameObject.Find("Button_Puntuaciones").GetComponent<Button>().onClick.AddListener(delegate { ChangeScene("KahootLeaderboardSelection"); });
+                GameObject.Find("Button_ErrorLogs").GetComponent<Button>().onClick.AddListener(delegate { ChangeScene("LogSelection"); });
                 GameObject.Find("Button_Creditos").GetComponent<Button>().onClick.AddListener(delegate { ChangeScene("About"); });
                 break;
             case 1:
@@ -49,6 +50,9 @@ public class SceneController : MonoBehaviour
                 break;
             case 5:
                 GameObject.Find("Itchio_button").GetComponent<Button>().onClick.AddListener(delegate { OpenURL("https://javiersc.itch.io/"); });
+                GameObject.Find("Return_button").GetComponent<Button>().onClick.AddListener(delegate { ChangeScene("Menu"); });
+                break;
+            case 6:
                 GameObject.Find("Return_button").GetComponent<Button>().onClick.AddListener(delegate { ChangeScene("Menu"); });
                 break;
         }

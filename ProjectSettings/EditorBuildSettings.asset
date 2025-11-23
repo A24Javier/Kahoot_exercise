@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/About.unity
     guid: 385a0c8ba6d9d884e89b2442e083cbc5
+  - enabled: 1
+    path: Assets/Scenes/LogSelection.unity
+    guid: 9224d50fc9fce454885489d9c93c1a94
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

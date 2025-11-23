@@ -112,7 +112,7 @@ public class LeaderboardManager : MonoBehaviour
 
     private void ConfigureLeaderboard()
     {
-        for(int i = 0; i < usernames.Count; i++)
+        for(int i = 0; i < usernameTexts.Length; i++)
         {
             if (usernames[i] != null)
             {
