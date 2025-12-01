@@ -107,5 +107,3 @@ public class PossibleAnswers
     public string respuesta;
     public bool esCorrecto;
 }
-
-

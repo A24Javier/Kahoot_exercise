@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LogSelection.unity
     guid: 9224d50fc9fce454885489d9c93c1a94
+  - enabled: 1
+    path: Assets/Scenes/KahootCreator.unity
+    guid: 906126d124d4c6a468bcb9eabb3179dd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

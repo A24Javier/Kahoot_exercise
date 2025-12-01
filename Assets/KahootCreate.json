@@ -1,0 +1,29 @@
+{
+    "testName": "KahootCreate",
+    "preguntas": [
+        {
+            "pregunta": "awffqf",
+            "posiblesRespuestas": [
+                {
+                    "respuesta": "ffwafqwfa",
+                    "esCorrecto": true
+                },
+                {
+                    "respuesta": "qfqwf",
+                    "esCorrecto": false
+                },
+                {
+                    "respuesta": "qfffqf",
+                    "esCorrecto": true
+                },
+                {
+                    "respuesta": "fqfqfqwf",
+                    "esCorrecto": false
+                }
+            ],
+            "maximoPuntos": 1212,
+            "tiempo": 12.0,
+            "imagen": ""
+        }
+    ]
+}
